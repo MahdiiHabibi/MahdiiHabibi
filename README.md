@@ -6,7 +6,7 @@ Who do frontend and backend from Iran that I do the backend with C# and Asp.NetC
 
 
 ## 🛠 Skills
-C# , Asp.NetCore , SqlServer , Html , Css , bootstrap 
+C# , Asp.NetCore , SqlServer , Html , Css , bootstrap , ( javaScript => beginer )
 
 
 ## 🌐 Socials:
