@@ -1,5 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working and learning on Web Api , Asp.NetCore<br>🌱 I’m currently learning C# For Advanced Type Like Fremworks , Libraries , and Methods That I'dont have Information About it <br>💬 Ask me about Any things that about C# , sql server , Asp.NetCore <br>⚡ Fun fact : If I sleep later, I wake up earlier 
+Someone who loves programming and website writing , 
+Who do frontend and backend from Iran that I do the backend with C# and Asp.NetCore and I do the frontend with HTML and some libraries like Bootstrap & Use Sql Server For DataBase Of Project .
+
+
+
+## 🛠 Skills
+C# , Asp.NetCore , SqlServer , Html , Css , bootstrap 
 
 
 ## 🌐 Socials:
